@@ -12,6 +12,11 @@ namespace test1
         {
             //hello world
 
+            int x = 1337;
+            Console.WriteLine("{0}", x);
+
+
+            Console.ReadLine();
         }
     }
 }
